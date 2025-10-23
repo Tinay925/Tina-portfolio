@@ -1,4 +1,4 @@
-# tinay925-portfolio
+# Tina-portfolio
 
 Accounts Payable Specialist
 
