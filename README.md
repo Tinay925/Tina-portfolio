@@ -2,7 +2,7 @@
 
 Accounts Payable Specialist
 
-This repository contains the portfolio and professional information for Tinay925, an Accounts Payable Specialist. It highlights experience, skills, projects, and contact information.
+This repository contains the portfolio and professional information for Tina, an Accounts Payable Specialist. It highlights experience, skills, projects, and contact information.
 
 ## About
 
@@ -11,19 +11,20 @@ This repository contains the portfolio and professional information for Tinay925
 
 ## Experience & Skills
 
-- Invoice processing and AP automation
-- Vendor onboarding and reconciliation
-- Payment runs and remittance
-- Expense auditing and month-end close support
-- ERP and accounting software (add specifics)
+- Invoice processing and AP management
+- Review and approve invoice entries, payment runs, and vendor reconciliations
+- Assist with month-end close activities, including accruals and reporting
+- Monitor AP aging reports and ensure timely payment to vendors
+- Accounting software (Odoo)
 
 ## Projects / Highlights
 
-- Implemented process improvements that reduced invoice processing time by X%
-- Reconciled vendor accounts totaling $Y monthly
-- Led AP automation pilot/project (describe)
+- To ensure accurate and timely processing of supplier invoices and payments while maintaining proper documentation and internal control procedures within the Accounts Payable process.
+- Reviewed and verified supplier invoices, matched them with purchase orders and delivery receipts, prepared vouchers, and entered transactions into the accounting system.
+- Coordinated with vendors and internal departments to resolve discrepancies and ensure proper payment scheduling.
+- Helped optimize cash flow by identifying high-priority payments and reducing outstanding liabilities.
 
 ## Contact
 
 - GitHub: https://github.com/Tinay925
-- Email: (add your email here)
+- Email: fctinavillanueva@gmail.com
